@@ -4,7 +4,7 @@ This repository contains the Python implementation of the Chi-Square function de
 
 ## Installation
 
-To use the Chi-Square function, you need to have Python installed on your machine (the code was tested on Python 3.11). In order to use or test this function you will need the following packages:
+To use the Chi-Square function, you need to have Python installed on your machine (the code was tested on Python 3.11). In order to use or test this function, you will need the following packages:
 
 ```bash
 numpy
